@@ -1,4 +1,4 @@
-# GameLengthPrediction
+# DogOrWolf
 
 In this project we classify photos of wolves and dogs using CNNs.
 
